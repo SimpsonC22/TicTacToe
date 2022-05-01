@@ -1,0 +1,5 @@
+C:\Users\simps\Documents\School\Spring 2022\cse210\projects\TicTacToe\obj\Debug\net6.0\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\simps\Documents\School\Spring 2022\cse210\projects\TicTacToe\obj\Debug\net6.0\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simps\Documents\School\Spring 2022\cse210\projects\TicTacToe\obj\Debug\net6.0\TicTacToe.AssemblyInfoInputs.cache
+C:\Users\simps\Documents\School\Spring 2022\cse210\projects\TicTacToe\obj\Debug\net6.0\TicTacToe.AssemblyInfo.cs
+C:\Users\simps\Documents\School\Spring 2022\cse210\projects\TicTacToe\obj\Debug\net6.0\TicTacToe.csproj.CoreCompileInputs.cache

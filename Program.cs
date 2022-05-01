@@ -99,7 +99,7 @@ namespace CortSimpson // Note: actual namespace depends on the project name.
                 Catgame = true;
             }
 
-            return Catgame
+            return Catgame;
 
             
         }
