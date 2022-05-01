@@ -31,7 +31,7 @@ namespace CortSimpson // Note: actual namespace depends on the project name.
         {
             List<string> board = new List<string>();
 
-            for (int i = 1; <= 9; i++)
+            for (int i = 1; i <= 9; i++)
             {
                 board.Add(i.ToString());
             }
