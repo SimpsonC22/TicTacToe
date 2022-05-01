@@ -3,3 +3,13 @@ C:\Users\simps\Documents\School\Spring 2022\cse210\projects\TicTacToe\obj\Debug\
 C:\Users\simps\Documents\School\Spring 2022\cse210\projects\TicTacToe\obj\Debug\net6.0\TicTacToe.AssemblyInfoInputs.cache
 C:\Users\simps\Documents\School\Spring 2022\cse210\projects\TicTacToe\obj\Debug\net6.0\TicTacToe.AssemblyInfo.cs
 C:\Users\simps\Documents\School\Spring 2022\cse210\projects\TicTacToe\obj\Debug\net6.0\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\simps\Documents\School\Spring 2022\cse210\projects\TicTacToe\bin\Debug\net6.0\TicTacToe.exe
+C:\Users\simps\Documents\School\Spring 2022\cse210\projects\TicTacToe\bin\Debug\net6.0\TicTacToe.deps.json
+C:\Users\simps\Documents\School\Spring 2022\cse210\projects\TicTacToe\bin\Debug\net6.0\TicTacToe.runtimeconfig.json
+C:\Users\simps\Documents\School\Spring 2022\cse210\projects\TicTacToe\bin\Debug\net6.0\TicTacToe.dll
+C:\Users\simps\Documents\School\Spring 2022\cse210\projects\TicTacToe\bin\Debug\net6.0\TicTacToe.pdb
+C:\Users\simps\Documents\School\Spring 2022\cse210\projects\TicTacToe\obj\Debug\net6.0\TicTacToe.dll
+C:\Users\simps\Documents\School\Spring 2022\cse210\projects\TicTacToe\obj\Debug\net6.0\refint\TicTacToe.dll
+C:\Users\simps\Documents\School\Spring 2022\cse210\projects\TicTacToe\obj\Debug\net6.0\TicTacToe.pdb
+C:\Users\simps\Documents\School\Spring 2022\cse210\projects\TicTacToe\obj\Debug\net6.0\TicTacToe.genruntimeconfig.cache
+C:\Users\simps\Documents\School\Spring 2022\cse210\projects\TicTacToe\obj\Debug\net6.0\ref\TicTacToe.dll
