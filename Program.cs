@@ -9,7 +9,7 @@ namespace CortSimpson // Note: actual namespace depends on the project name.
     {
         static void Main(string[] args)
         {
-            List<string> Board = gameboard();
+            List<string> board = gameboard();
             string Player = "X";
 
             while(!Gameover(board))
@@ -19,7 +19,7 @@ namespace CortSimpson // Note: actual namespace depends on the project name.
                 int Choice = Playerchoice(Player);
 
 
-                Taketurn(Board, Choice, Player);
+                Taketurn(board, Choice, Player);
 
                 Player = Otherplayer(Player);
             }
@@ -27,7 +27,7 @@ namespace CortSimpson // Note: actual namespace depends on the project name.
             Console.WriteLine("GAME OVER");
         }
 
-        static List<string> newboard()
+        static List<string> gameboard()
         {
             List<string> board = new List<string>();
 
@@ -55,7 +55,7 @@ namespace CortSimpson // Note: actual namespace depends on the project name.
             Console.WriteLine($"{Player}'s turn, Choose # 1-9: ");
 
             string move_string = Console.ReadLine();
-            int Choice = int.Parse(move_stirng);
+            int Choice = int.Parse(move_string);
             return Choice;
         }
 
@@ -69,7 +69,7 @@ namespace CortSimpson // Note: actual namespace depends on the project name.
         {
             bool Gameover = false;
 
-            if (Winner(board, "x") || Winnner(board, "o") || Catgame(board))
+            if (Winner(board, "x") || Winner(board, "o") || Catgame(board))
             {
                 Gameover = true;
             }
